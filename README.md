@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦊 About Me:
 Hi I'm Saravanan I create Open Source Projects in AI & ML. Besides Coiding I like Music, Blogging, Quizzing & Chess. Cheers Have a nice day!
 
 
